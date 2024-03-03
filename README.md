@@ -6,15 +6,15 @@ Submitted by: Sunil Prajapati (st124073)
 
 <pre>
 root
-|--<a href="https://github.com/scherbatsky-jr/nlp-text-generator/blob/main/LSTM_LM.ipyng">Task_1.ipynb (Building own Model)</a>
-|--<a href="https://github.com/scherbatsky-jr/nlp-text-generator/blob/main/app">Task_2,3.ipynb (Using pretrained models and comparison)</a>
-|--<a href="https://github.com/scherbatsky-jr/nlp-text-generator/blob/main/app">app</a>
-    |--<a href="https://github.com/scherbatsky-jr/nlp-text-generator/blob/main/app/lib">lib</a>
-    |--<a href="https://github.com/scherbatsky-jr/nlp-text-generator/blob/main/app/static">static</a>
-    |--<a>templates</a>
-    |   |--<a href="https://github.com/scherbatsky-jr/nlp-text-generator/blob/main/app/templates/index.html">index.html</a>
+|--<a href="https://github.com/schttps://github.com/scherbatsky-jr/nlp-sentence-embedding/blob/main/Task_1.ipynb">Task_1.ipynb (Building own Model)</a>
+|--<a href="https://github.com/scherbatsky-jr/nlp-sentence-embedding/blob/main/Task_2%2C3.ipynb">Task_2,3.ipynb (Using pretrained models and comparison)</a>
+|--<a href="https://github.com/scherbatsky-jr/nlp-sentence-embedding/tree/main/app">app</a>
+    |--<a href="https://github.com/scherbatsky-jr/nlp-sentence-embedding/tree/main/app/lib">lib</a>
+    |--<a href="https://github.com/scherbatsky-jr/nlp-sentence-embedding/tree/main/app/static">static</a>
+    |--<a href="https://github.com/scherbatsky-jr/nlp-sentence-embedding/tree/main/app/templates">templates</a>
+    |   |--<a href="https://github.com/scherbatsky-jr/nlp-sentence-embedding/blob/main/app/templates/index.html">index.html</a>
     |
-    |--<a href="https://github.com/scherbatsky-jr/nlp-text-generator/blob/main/app/app.py">main.py</a>
+    |--<a href="https://github.com/scherbatsky-jr/nlp-sentence-embedding/blob/main/app/main.py">main.py</a>
 </pre>
 
 
