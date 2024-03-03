@@ -13,19 +13,33 @@
     <div class="content">
         <p>Please enter two sentences in the form below to test the similarity between them. Please make the sentences similar or opposite in meaning.</p>
 
-        <form class="sentence-form">
+        <form class="sentence-form" id="data-form" action="/" method="post">
             <div class="form-group">
                 <label>Sentence 1</label>
-                <input id="sentence-one" type="text" required/>
+                <input
+                    class="sentence-one"
+                    id="sentence-one"
+                    name="sentence-one"
+                    type="text"
+                    value="{{ sentence_one }}"
+                    required/>
             </div>
             <div class="form-group">
                 <label>Sentence 2</label>
-                <input id="sentence-two" type="text" required/>
+                <input
+                    class="sentence-one"
+                    id="sentence-two"
+                    name="sentence-two"
+                    type="text"
+                    value="{{ sentence_two }}"
+                    required
+                />
             </div>
             <div>
                 <button type="submit" class="submit">Compare!</button>
             </div>
         </form>
+        <div class="result">Cosine similarity between two sentences: {{ result }}</div>
     </div>
 </body>
 </html>

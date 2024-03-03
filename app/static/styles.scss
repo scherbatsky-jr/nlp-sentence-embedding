@@ -16,6 +16,7 @@ body {
 }
 
 form {
+    margin-bottom: 2rem;
     .form-group {
         display: flex;
         flex-direction: column;
@@ -35,5 +36,9 @@ form {
         color: white;
         cursor: pointer;
     }
+}
+
+.result {
+    font-size: 1.25rem;
 }
 
